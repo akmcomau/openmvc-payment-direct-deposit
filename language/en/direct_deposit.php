@@ -3,6 +3,7 @@
 $_LANGUAGE = [
 	'bank' => 'Bank',
 	'bsb' => 'BSB',
+	'swift' => 'Swift',
 	'account_number' => 'Account Number',
 	'confirm_purchase' => 'Confirm Purchase',
 	'direct_deposit' => 'Direct Deposit Details',

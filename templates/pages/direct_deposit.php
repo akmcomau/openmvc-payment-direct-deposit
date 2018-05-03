@@ -12,6 +12,13 @@
 			</div>
 			<hr class="separator-2column" />
 			<div class="row">
+				<div class="col-md-3 col-sm-3 title-2column"><?php echo $text_swift; ?>:</div>
+				<div class="col-md-9 col-sm-9 ">
+					<?php echo $module_config->swift; ?>
+				</div>
+			</div>
+			<hr class="separator-2column" />
+			<div class="row">
 				<div class="col-md-3 col-sm-3 title-2column"><?php echo $text_bsb; ?>:</div>
 				<div class="col-md-9 col-sm-9 ">
 					<?php echo $module_config->bsb; ?>

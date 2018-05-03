@@ -9,6 +9,10 @@
 <td><?php echo $module_config->bank; ?></td>
 </tr>
 <tr>
+<th><?php echo $text_swift; ?>: </th>
+<td><?php echo $module_config->swift; ?></td>
+</tr>
+<tr>
 <th><?php echo $text_bsb; ?>: </th>
 <td><?php echo $module_config->bsb; ?></td>
 </tr>
